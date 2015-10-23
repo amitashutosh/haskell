@@ -1,0 +1,10 @@
+.idea/*
+.DS_Store
+htdocs/.codekit-cache/*
+config.codekit
+htdocs/wp-content/uploads/*
+htdocs/.sass-cache/*
+
+htdocs/.codekit-cache
+htdocs/config.codekit
+htdocs/.idea
